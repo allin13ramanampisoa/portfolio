@@ -568,9 +568,11 @@
 <!--                      </form>-->
 <!--                    </div>-->
 <!--                  </div>-->
+				
                   <div class="col-md-6">
                     <div class="title-box-2 pt-4 pt-md-0">
                       <h5 class="title-left">
+						<br>
                         Contact
                       </h5>
                     </div>
@@ -619,7 +621,7 @@
               Licensing information: https://bootstrapmade.com/license/
               Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
             -->
-              Designed by BootstrapMade
+              Designed by BootstrapMade 2021
             </div>
           </div>
         </div>
