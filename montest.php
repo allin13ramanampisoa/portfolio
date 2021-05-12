@@ -1,6 +1,6 @@
 <?php
 
-$servername = "echo.cloudns.io";
+$servername = "echo.cloudns.io:3306";
 $username = "ibcmgcom_magasinibc_user";
 $password = "ibc2020@IBC";
 
