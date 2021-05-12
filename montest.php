@@ -4,12 +4,14 @@ $servername = "81.19.215.11";
 $username = "ibcmgcom_magasinibc_user";
 $password = "ibc2020@IBC";
 
-// Create connection
-$conn = new mysqli($servername, $username, $password);
+echo "Connected test";
 
-// Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+try {
+    $dbh = new PDO('mysql:host=81.19.215.11;dbname=ibcmgcom_magasinibc', $username, $password);
+
+    $dbh = null;
+    echo "Connected successfully";
+} catch (PDOException $e) {
+    print "Erreur !: " . $e->getMessage() . "<br/>";
+    die();
 }
-
-echo "Connected successfully";
