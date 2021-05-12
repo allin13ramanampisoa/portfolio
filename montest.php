@@ -1,6 +1,6 @@
 <?php
 
-$servername = "81.19.215.11:3306";
+$servername = "81.19.215.11";
 $username = "ibcmgcom_magasinibc_user";
 $password = "ibc2020@IBC";
 
