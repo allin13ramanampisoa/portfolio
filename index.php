@@ -92,7 +92,7 @@
                   <div class="row">
                     <div class="col-sm-6 col-md-5">
                       <div class="about-img">
-                        <img src="assets/img/allin-photo.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                        <img src="assets/img/allin-2022.png" class="img-fluid rounded b-shadow-a" alt="">
                       </div>
                     </div>
                     <div class="col-sm-6 col-md-7">
@@ -132,7 +132,7 @@
                       </h5>
                     </div>
                     <p class="lead">
-                      Jeune développeur web. Je suis un développeur Web & Mobile possédant une grande expertise sur PHP, JavaScript, MySQL, HTML, CSS. Je maîtrise différent Framework :
+                      Jeune développeur web. Je suis un développeur Web & Mobile possédant une grande expertise sur PHP, JavaScript, MySQL, HTML, CSS. Je maîtrise différents Framework :
                     </p>
                     <ul>
                       <li>PHP : Symfony, Laravel, CodeIgniter</li>
@@ -140,7 +140,7 @@
                       <li>JavaScript : NodeJS, AngularJS, JQuery</li>
                     </ul>
                     <p class="lead">
-                      En plus, j'ai aussi des connaissances sur d’autre langage de programmation comme :
+                      En plus, j'ai aussi des connaissances sur d’autres langages de programmation comme :
                     </p>
                     <ul>
                       <li>Plateform .NET</li>
@@ -155,9 +155,18 @@
                   </div>
                 </div>
               </div>
+              <br>
+              <div class="row">
+                <div class="col-sm"></div>
+                <div class="col-sm center">
+                  <a class="btn btn-block btn-primary" href="assets/CV_AllinRAMANAMPISOA.pdf" download><i class="fa fa-download" aria-hidden="true"></i> Télécharger mon C.V.</a>
+                </div>
+                <div class="col-sm"></div>
+              </div>
             </div>
           </div>
         </div>
+        
       </div>
     </section><!-- End About Section -->
 
@@ -621,7 +630,7 @@
               Licensing information: https://bootstrapmade.com/license/
               Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
             -->
-              Designed by BootstrapMade 2021
+              &copy; Allin RAMANAMPISOA 2022
             </div>
           </div>
         </div>
